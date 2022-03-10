@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646738502947" clover="3.2.0">
+  <project timestamp="1646738502947" name="All files">
+    <metrics statements="32" coveredstatements="32" conditionals="23" coveredconditionals="23" methods="3" coveredmethods="3" elements="58" coveredelements="58" complexity="0" loc="32" ncloc="32" packages="1" files="3" classes="3"/>
+    <file name="1-loan.js" path="C:\Users\USER\Documents\Academics Iut\4.2\Software verification and validation\Lab\Lab Final\src\1-loan.js">
+      <metrics statements="10" coveredstatements="10" conditionals="15" coveredconditionals="15" methods="1" coveredmethods="1"/>
+      <line num="2" count="64" type="cond" truecount="5" falsecount="0"/>
+      <line num="3" count="12" type="stmt"/>
+      <line num="4" count="52" type="cond" truecount="5" falsecount="0"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="6" count="44" type="cond" truecount="5" falsecount="0"/>
+      <line num="7" count="8" type="stmt"/>
+      <line num="9" count="36" type="stmt"/>
+      <line num="10" count="36" type="stmt"/>
+      <line num="11" count="36" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="2-converter.js" path="C:\Users\USER\Documents\Academics Iut\4.2\Software verification and validation\Lab\Lab Final\src\2-converter.js">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="4" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="3-sorting.js" path="C:\Users\USER\Documents\Academics Iut\4.2\Software verification and validation\Lab\Lab Final\src\3-sorting.js">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="14" type="stmt"/>
+      <line num="3" count="14" type="stmt"/>
+      <line num="4" count="38" type="stmt"/>
+      <line num="5" count="38" type="stmt"/>
+      <line num="6" count="38" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="19" type="stmt"/>
+      <line num="8" count="19" type="stmt"/>
+      <line num="10" count="38" type="stmt"/>
+      <line num="12" count="14" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
